@@ -1,4 +1,4 @@
-# Personal Budget Application
+# Personal Budget Application 
 
 ## Description
 The Personal Budget Application is a comprehensive tool that helps users analyze their monthly spending and identify areas where they can reduce their expenditure by up to 20%. This web application is designed to enhance financial awareness and provide insights into budget management.
